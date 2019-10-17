@@ -37,7 +37,7 @@
 .left {
     width: 50%;
     height: 100%;
-    background-image: url('images/online1-1.JPG'), url('images/online1-2.JPG');
+    background-image: url('images/online1-1.jpg'), url('images/online1-2.jpg');
     background-repeat: no-repeat,no-repeat;    
     background-color: rgb(128,255,255);
     background-size: 45%,45%;
