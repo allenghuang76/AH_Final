@@ -1,0 +1,58 @@
+
+
+.home {
+    width: 100%;
+    height: 70vh;
+    background-image: url('三鐵4.JPG');
+    background-size: 70%;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.大{
+    color:rgb(0, 30, 128);
+    
+}
+.about-me {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(158, 255, 128);
+    display: flex;
+
+}
+.right {
+    width: 50%;
+    height: 50vh;
+        
+    background-repeat: no-repeat;
+    background-color: rgb(197, 255, 192);
+    background-size: 85%;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.left {
+    width: 50%;
+    height: 100%;
+    background-image: url('images/online1-1.JPG'), url('images/online1-2.JPG');
+    background-repeat: no-repeat,no-repeat;    
+    background-color: rgb(128,255,255);
+    background-size: 45%,45%;
+    background-position: top,bottom;
+    display: flex,flex;
+    justify-content: center,center;
+    align-items: center,center;
+
+}
+
+.contact-me {
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       
+        
+    }
